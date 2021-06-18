@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int num,res;
+clrscr();
+printf("Enter A Number :-  ");
+scanf("%d",&num);
+while(a>0)
+{
+res=num%10;
+printf("%d",res);
+a=a/10;
+}
+getch();
+}
+
+
+
